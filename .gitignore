@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prerequisites
 *.d
 
@@ -30,3 +31,7 @@
 *.exe
 *.out
 *.app
+=======
+node_modules
+*.vsix
+>>>>>>> a3c0017 (initial commit)
